@@ -1,0 +1,8 @@
+plugins {
+    id "org.hidetake.ssh"
+    // TODO: this doesn't work
+//    id(libs.plugins.gradle.ssh.plugin.get().pluginId)
+    // TODO: this doesn't work too
+//    alias(libs.plugins.gradle.ssh.plugin)
+}
+
